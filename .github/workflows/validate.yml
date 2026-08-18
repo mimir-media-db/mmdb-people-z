@@ -1,0 +1,77 @@
+name: Validate and Build Indexes
+
+on:
+  pull_request:
+    branches: [master]
+    paths: ['data/**']
+  push:
+    branches: [master]
+    paths: ['data/**']
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    if: github.actor != 'github-actions[bot]'
+    steps:
+      - name: Checkout data repo
+        uses: actions/checkout@v4
+        with:
+          path: data
+          persist-credentials: false
+
+      - name: Checkout tools repo
+        uses: actions/checkout@v4
+        with:
+          repository: mimir-media-db/mmdb-schema-and-tools
+          ref: master
+          path: tools
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Build tools
+        run: |
+          cd tools
+          npm install
+          npm run build
+
+      - name: Validate data
+        run: |
+          cd data
+          node ../tools/dist/validate-repo.js --schema=person
+
+      - name: Build indexes
+        run: |
+          cd data
+          node ../tools/dist/build-indexes.js
+
+      - name: Check for index changes
+        id: check_changes
+        run: |
+          cd data
+          git diff --exit-code data/*/index.json || echo "changed=true" >> $GITHUB_OUTPUT
+
+      - name: Generate App token
+        if: steps.check_changes.outputs.changed == 'true' && (github.event_name == 'push' || github.event_name == 'workflow_dispatch')
+        id: app-token
+        uses: actions/create-github-app-token@v1
+        with:
+          app-id: ${{ secrets.MMDB_BOT_APP_ID }}
+          private-key: ${{ secrets.MMDB_BOT_PRIVATE_KEY }}
+
+      - name: Commit and push index updates
+        if: steps.check_changes.outputs.changed == 'true' && (github.event_name == 'push' || github.event_name == 'workflow_dispatch')
+        run: |
+          cd data
+          git add data/*/index.json 2>/dev/null || true
+          git config user.name "mmdb-bot[bot]"
+          git config user.email "mmdb-bot[bot]@users.noreply.github.com"
+          git remote set-url origin "https://x-access-token:${{ steps.app-token.outputs.token }}@github.com/${{ github.repository }}.git"
+          git commit -m "chore: update indexes [skip ci]" || echo "Nothing to commit"
+          git push
