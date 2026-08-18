@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "id": "p_zvonimir_juric",
+    "name": "Zvonimir Jurić",
+    "birth_year": 1971,
+    "path": "data/people/zvonimir_juric.json"
+  }
+]
