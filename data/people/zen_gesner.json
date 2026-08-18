@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_zen_gesner",
+  "name": "Zen Gesner",
+  "external_ids": {
+    "wikidata": "Q189438",
+    "imdb": "nm0315143"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1970
+}
