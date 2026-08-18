@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_zoe_tapper",
+  "name": "Zoe Tapper",
+  "external_ids": {
+    "wikidata": "Q2637984",
+    "imdb": "nm1483730"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1981
+}
