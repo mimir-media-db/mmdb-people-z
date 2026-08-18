@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_zak_orth",
+  "name": "Zak Orth",
+  "external_ids": {
+    "wikidata": "Q2919454",
+    "imdb": "nm0651008"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1970
+}
