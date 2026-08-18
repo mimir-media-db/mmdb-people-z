@@ -1,11 +1,12 @@
 {
   "schema_version": 1,
   "id": "p_",
-  "name": "アンナ・リータ・デル・ピアーノ",
+  "name": "ミシェル・ブラン",
   "external_ids": {
-    "wikidata": "Q3617810",
-    "imdb": "nm0215712"
+    "wikidata": "Q1398256",
+    "imdb": "nm0003508"
   },
   "last_updated": "2026-08-18",
-  "birth_year": 1966
+  "birth_year": 1952,
+  "death_year": 2024
 }
