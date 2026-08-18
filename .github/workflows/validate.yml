@@ -20,7 +20,6 @@ jobs:
       - name: Checkout data repo
         uses: actions/checkout@v4
         with:
-          path: data
           persist-credentials: false
 
       - name: Checkout tools repo
@@ -42,19 +41,14 @@ jobs:
           npm run build
 
       - name: Validate data
-        run: |
-          cd data
-          node ../tools/dist/validate-repo.js --schema=person
+        run: node tools/dist/validate-repo.js
 
       - name: Build indexes
-        run: |
-          cd data
-          node ../tools/dist/build-indexes.js
+        run: node tools/dist/build-indexes.js
 
       - name: Check for index changes
         id: check_changes
         run: |
-          cd data
           git diff --exit-code data/*/index.json || echo "changed=true" >> $GITHUB_OUTPUT
 
       - name: Generate App token
@@ -68,7 +62,6 @@ jobs:
       - name: Commit and push index updates
         if: steps.check_changes.outputs.changed == 'true' && (github.event_name == 'push' || github.event_name == 'workflow_dispatch')
         run: |
-          cd data
           git add data/*/index.json 2>/dev/null || true
           git config user.name "mmdb-bot[bot]"
           git config user.email "mmdb-bot[bot]@users.noreply.github.com"
