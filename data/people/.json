@@ -1,12 +1,11 @@
 {
   "schema_version": 1,
   "id": "p_",
-  "name": "ダヌタ・シャフラルスカ",
+  "name": "レニー・クラヴィッツ",
   "external_ids": {
-    "wikidata": "Q453877",
-    "imdb": "nm0843686"
+    "wikidata": "Q180224",
+    "imdb": "nm0005107"
   },
   "last_updated": "2026-08-18",
-  "birth_year": 1915,
-  "death_year": 2017
+  "birth_year": 1964
 }
