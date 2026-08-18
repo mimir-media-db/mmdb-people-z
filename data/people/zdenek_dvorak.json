@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_zdenek_dvorak",
+  "name": "Zdeněk Dvořák",
+  "external_ids": {
+    "wikidata": "Q95093709",
+    "imdb": "nm1961318"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1949
+}
