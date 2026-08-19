@@ -544,6 +544,12 @@
     "path": "data/people/p_zack_bernbaum.json"
   },
   {
+    "id": "p_zack_bia",
+    "name": "Zack Bia",
+    "birth_year": 1996,
+    "path": "data/people/p_zack_bia.json"
+  },
+  {
     "id": "p_zack_de_la_rocha",
     "name": "Zack de la Rocha",
     "birth_year": 1970,
@@ -878,6 +884,12 @@
     "path": "data/people/p_zahra_doumandji.json"
   },
   {
+    "id": "p_zahra_lfil",
+    "name": "Zahra Lfil",
+    "birth_year": 1992,
+    "path": "data/people/p_zahra_lfil.json"
+  },
+  {
     "id": "p_zahra_newman",
     "name": "Zahra Newman",
     "path": "data/people/p_zahra_newman.json"
@@ -960,6 +972,11 @@
     "path": "data/people/p_zain_al_rafeea.json"
   },
   {
+    "id": "p_zain_duraie",
+    "name": "Zain Duraie",
+    "path": "data/people/p_zain_duraie.json"
+  },
+  {
     "id": "p_zain_khan",
     "name": "Zain Khan",
     "path": "data/people/p_zain_khan.json"
@@ -968,6 +985,11 @@
     "id": "p_zain_khan_durrani",
     "name": "Zain Khan Durrani",
     "path": "data/people/p_zain_khan_durrani.json"
+  },
+  {
+    "id": "p_zainab_azizi",
+    "name": "Zainab Azizi",
+    "path": "data/people/p_zainab_azizi.json"
   },
   {
     "id": "p_zainab_balogun",
@@ -1251,9 +1273,19 @@
     "path": "data/people/p_zam_salim.json"
   },
   {
+    "id": "p_zama_ngcobo",
+    "name": "Zama Ngcobo",
+    "path": "data/people/p_zama_ngcobo.json"
+  },
+  {
     "id": "p_zamani_wilder",
     "name": "Zamani Wilder",
     "path": "data/people/p_zamani_wilder.json"
+  },
+  {
+    "id": "p_zamo_mkhwanazi",
+    "name": "Zamo Mkhwanazi",
+    "path": "data/people/p_zamo_mkhwanazi.json"
   },
   {
     "id": "p_zan_marolt",
@@ -1351,6 +1383,12 @@
     "id": "p_zane_quazzani",
     "name": "Zane Quazzani",
     "path": "data/people/p_zane_quazzani.json"
+  },
+  {
+    "id": "p_zane_walker",
+    "name": "Zane Walker",
+    "birth_year": 1997,
+    "path": "data/people/p_zane_walker.json"
   },
   {
     "id": "p_zane_weiner",
@@ -1651,6 +1689,12 @@
     "name": "Zaur Şəfiyev",
     "birth_year": 1980,
     "path": "data/people/p_zaur_sfiyev.json"
+  },
+  {
+    "id": "p_zaur_tsogoev",
+    "name": "Zaur Tsogoev",
+    "birth_year": 1986,
+    "path": "data/people/p_zaur_tsogoev.json"
   },
   {
     "id": "p_zavvo_nicolosi",
@@ -2589,6 +2633,12 @@
     "path": "data/people/p_ze_roberto.json"
   },
   {
+    "id": "p_zea",
+    "name": "Zea",
+    "birth_year": 1991,
+    "path": "data/people/p_zea.json"
+  },
+  {
     "id": "p_zeb_ejiro",
     "name": "Zeb Ejiro",
     "path": "data/people/p_zeb_ejiro.json"
@@ -2647,6 +2697,12 @@
     "name": "Zeenath",
     "birth_year": 1964,
     "path": "data/people/p_zeenath.json"
+  },
+  {
+    "id": "p_zeeshan_karimi",
+    "name": "Zeeshan Karimi",
+    "birth_year": 1977,
+    "path": "data/people/p_zeeshan_karimi.json"
   },
   {
     "id": "p_zeev_revach",
@@ -2748,6 +2804,11 @@
     "name": "Zekeria Ebrahimi",
     "birth_year": 1996,
     "path": "data/people/p_zekeria_ebrahimi.json"
+  },
+  {
+    "id": "p_zekhethelo_zondi",
+    "name": "Zekhethelo Zondi",
+    "path": "data/people/p_zekhethelo_zondi.json"
   },
   {
     "id": "p_zeki_aknc",
@@ -3548,6 +3609,12 @@
     "path": "data/people/p_zhang_xiaofei.json"
   },
   {
+    "id": "p_zhang_xin",
+    "name": "Zhang Xin",
+    "birth_year": 1965,
+    "path": "data/people/p_zhang_xin.json"
+  },
+  {
     "id": "p_zhang_xiwen",
     "name": "Zhang Xiwen",
     "path": "data/people/p_zhang_xiwen.json"
@@ -3752,6 +3819,11 @@
     "path": "data/people/p_zhanna_tedeevakalinina.json"
   },
   {
+    "id": "p_zhannat_alshanova",
+    "name": "Zhannat Alshanova",
+    "path": "data/people/p_zhannat_alshanova.json"
+  },
+  {
     "id": "p_zhanpier_nshanyan",
     "name": "Zhan-Pier Nshanyan",
     "birth_year": 1953,
@@ -3827,6 +3899,11 @@
     "name": "Zhao Xiaoding",
     "birth_year": 1968,
     "path": "data/people/p_zhao_xiaoding.json"
+  },
+  {
+    "id": "p_zhao_xiaohong",
+    "name": "Zhao Xiaohong",
+    "path": "data/people/p_zhao_xiaohong.json"
   },
   {
     "id": "p_zhao_xiaoming",
@@ -4053,6 +4130,12 @@
     "name": "Zhou Dongyu",
     "birth_year": 1992,
     "path": "data/people/p_zhou_dongyu.json"
+  },
+  {
+    "id": "p_zhou_guanyu",
+    "name": "Zhou Guanyu",
+    "birth_year": 1999,
+    "path": "data/people/p_zhou_guanyu.json"
   },
   {
     "id": "p_zhou_hao",
@@ -4297,6 +4380,11 @@
     "path": "data/people/p_ziad_adwan.json"
   },
   {
+    "id": "p_ziad_alumari",
+    "name": "Ziad Al-Umari",
+    "path": "data/people/p_ziad_alumari.json"
+  },
+  {
     "id": "p_ziad_bakri",
     "name": "Ziad Bakri",
     "birth_year": 1980,
@@ -4336,6 +4424,11 @@
     "name": "Ziad Touma",
     "birth_year": 1974,
     "path": "data/people/p_ziad_touma.json"
+  },
+  {
+    "id": "p_ziad_zaza",
+    "name": "Ziad Zaza",
+    "path": "data/people/p_ziad_zaza.json"
   },
   {
     "id": "p_ziana_zain",
@@ -4952,6 +5045,12 @@
     "path": "data/people/p_zoe_arnao.json"
   },
   {
+    "id": "p_zoe_baier",
+    "name": "Zoë Baier",
+    "birth_year": 2013,
+    "path": "data/people/p_zoe_baier.json"
+  },
+  {
     "id": "p_zoe_belkin",
     "name": "Zoë Belkin",
     "birth_year": 1993,
@@ -5143,10 +5242,22 @@
     "path": "data/people/p_zoe_listerjones.json"
   },
   {
+    "id": "p_zoe_love_smith",
+    "name": "Zoë Love Smith",
+    "birth_year": 1999,
+    "path": "data/people/p_zoe_love_smith.json"
+  },
+  {
     "id": "p_zoe_mannhardt",
     "name": "Zoë Mannhardt",
     "birth_year": 1996,
     "path": "data/people/p_zoe_mannhardt.json"
+  },
+  {
+    "id": "p_zoe_marchal",
+    "name": "Zoé Marchal",
+    "birth_year": 1998,
+    "path": "data/people/p_zoe_marchal.json"
   },
   {
     "id": "p_zoe_mcintosh",
@@ -5203,6 +5314,12 @@
     "name": "Zoe Saldaña",
     "birth_year": 1978,
     "path": "data/people/p_zoe_saldana.json"
+  },
+  {
+    "id": "p_zoe_sidel",
+    "name": "Zoe Sidel",
+    "birth_year": 1994,
+    "path": "data/people/p_zoe_sidel.json"
   },
   {
     "id": "p_zoe_soul_paris",
@@ -6523,6 +6640,12 @@
     "path": "data/people/p_zuzana_bezakova.json"
   },
   {
+    "id": "p_zuzana_bubilkova",
+    "name": "Zuzana Bubílková",
+    "birth_year": 1952,
+    "path": "data/people/p_zuzana_bubilkova.json"
+  },
+  {
     "id": "p_zuzana_bydzovska",
     "name": "Zuzana Bydžovská",
     "birth_year": 1961,
@@ -6594,6 +6717,11 @@
     "path": "data/people/p_zuzana_hodkova.json"
   },
   {
+    "id": "p_zuzana_hozova",
+    "name": "Zuzana Hozová",
+    "path": "data/people/p_zuzana_hozova.json"
+  },
+  {
     "id": "p_zuzana_hrubcova",
     "name": "Zuzana Hrubčová",
     "path": "data/people/p_zuzana_hrubcova.json"
@@ -6647,6 +6775,12 @@
     "name": "Zuzana Kapráliková",
     "birth_year": 1973,
     "path": "data/people/p_zuzana_kapralikova.json"
+  },
+  {
+    "id": "p_zuzana_kirchnerova",
+    "name": "Zuzana Kirchnerová",
+    "birth_year": 1978,
+    "path": "data/people/p_zuzana_kirchnerova.json"
   },
   {
     "id": "p_zuzana_kocurikova",
