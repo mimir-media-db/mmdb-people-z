@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_ziggy_marley",
+  "name": "Ziggy Marley",
+  "external_ids": {
+    "wikidata": "Q199418",
+    "imdb": "nm0005187"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1968
+}
