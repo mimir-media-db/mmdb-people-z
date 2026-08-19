@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_zac_wild",
+  "name": "Zac Wild",
+  "external_ids": {
+    "wikidata": "Q115097615",
+    "imdb": "nm9783825"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1989
+}
