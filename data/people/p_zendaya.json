@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_zendaya",
+  "name": "Zendaya",
+  "external_ids": {
+    "wikidata": "Q189489",
+    "imdb": "nm3918035"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1996
+}
