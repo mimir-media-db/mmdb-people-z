@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_zachary_read",
+  "name": "Zachary Read",
+  "external_ids": {
+    "wikidata": "Q25808144",
+    "imdb": "nm8000165"
+  },
+  "last_updated": "2026-08-19"
+}
