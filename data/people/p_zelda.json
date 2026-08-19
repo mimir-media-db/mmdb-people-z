@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_zelda",
+  "name": "Zelda",
+  "external_ids": {
+    "wikidata": "Q2571225"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1914,
+  "death_year": 1984
+}
