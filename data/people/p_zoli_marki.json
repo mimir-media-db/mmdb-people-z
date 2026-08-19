@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_zoli_marki",
+  "name": "Zoli Marki",
+  "external_ids": {
+    "wikidata": "Q13036457",
+    "imdb": "nm0548469"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1960
+}

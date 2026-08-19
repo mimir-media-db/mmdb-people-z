@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_zaibo",
+  "name": "Zaibo",
+  "external_ids": {
+    "wikidata": "Q20466888",
+    "imdb": "nm0952051"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1956,
+  "death_year": 2018
+}
