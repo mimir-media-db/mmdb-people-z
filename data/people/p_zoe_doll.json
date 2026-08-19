@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_zoe_doll",
+  "name": "Zoe Doll",
+  "external_ids": {
+    "wikidata": "Q52160471",
+    "imdb": "nm8204944"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1994
+}
