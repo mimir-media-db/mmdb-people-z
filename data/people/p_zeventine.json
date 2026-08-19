@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_zeventine",
+  "name": "Zeventine",
+  "external_ids": {
+    "wikidata": "Q49922396",
+    "imdb": "nm9864222"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 2001
+}

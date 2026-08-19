@@ -1,0 +1,9 @@
+{
+  "schema_version": 1,
+  "id": "p_zaak_conway",
+  "name": "Zaak Conway",
+  "external_ids": {
+    "wikidata": "Q27601706"
+  },
+  "last_updated": "2026-08-19"
+}
