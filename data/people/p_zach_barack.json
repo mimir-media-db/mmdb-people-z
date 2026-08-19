@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_zach_barack",
+  "name": "Zach Barack",
+  "external_ids": {
+    "wikidata": "Q66132662",
+    "imdb": "nm10135528"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1995
+}
