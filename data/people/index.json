@@ -2981,6 +2981,12 @@
     "path": "data/people/p_zeljko_santrac.json"
   },
   {
+    "id": "p_zeljko_senecic",
+    "name": "Željko Senečić",
+    "birth_year": 1933,
+    "path": "data/people/p_zeljko_senecic.json"
+  },
+  {
     "id": "p_zeljko_sosic",
     "name": "Željko Sošić",
     "birth_year": 1980,
@@ -3500,6 +3506,11 @@
     "path": "data/people/p_zhang_jingyi.json"
   },
   {
+    "id": "p_zhang_jiping",
+    "name": "Zhang Jiping",
+    "path": "data/people/p_zhang_jiping.json"
+  },
+  {
     "id": "p_zhang_jiqing",
     "name": "Zhang Jiqing",
     "birth_year": 1937,
@@ -3613,6 +3624,12 @@
     "name": "Zhang Shan",
     "birth_year": 1968,
     "path": "data/people/p_zhang_shan.json"
+  },
+  {
+    "id": "p_zhang_shaotong",
+    "name": "Zhang Shaotong",
+    "birth_year": 1945,
+    "path": "data/people/p_zhang_shaotong.json"
   },
   {
     "id": "p_zhang_shuang_li",
@@ -6076,6 +6093,12 @@
     "id": "p_zoran_risteski",
     "name": "Zoran Risteski",
     "path": "data/people/p_zoran_risteski.json"
+  },
+  {
+    "id": "p_zoran_simjanovic",
+    "name": "Zoran Simjanović",
+    "birth_year": 1946,
+    "path": "data/people/p_zoran_simjanovic.json"
   },
   {
     "id": "p_zoran_solomun",
