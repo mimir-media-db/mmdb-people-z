@@ -1873,6 +1873,18 @@
     "path": "data/people/p_zbigniew_kozowski.json"
   },
   {
+    "id": "p_zbigniew_paleta",
+    "name": "Zbigniew Paleta",
+    "birth_year": 1941,
+    "path": "data/people/p_zbigniew_paleta.json"
+  },
+  {
+    "id": "p_zbigniew_preisner",
+    "name": "Zbigniew Preisner",
+    "birth_year": 1955,
+    "path": "data/people/p_zbigniew_preisner.json"
+  },
+  {
     "id": "p_zbigniew_rola",
     "name": "Zbigniew Rola",
     "birth_year": 1961,
@@ -2276,6 +2288,12 @@
     "id": "p_zdenek_lezak",
     "name": "Zdeněk Ležák",
     "path": "data/people/p_zdenek_lezak.json"
+  },
+  {
+    "id": "p_zdenek_liska",
+    "name": "Zdeněk Liška",
+    "birth_year": 1922,
+    "path": "data/people/p_zdenek_liska.json"
   },
   {
     "id": "p_zdenek_lonicek",
@@ -3893,6 +3911,12 @@
     "name": "Zhao Jinmai",
     "birth_year": 2002,
     "path": "data/people/p_zhao_jinmai.json"
+  },
+  {
+    "id": "p_zhao_jiping",
+    "name": "Zhao Jiping",
+    "birth_year": 1944,
+    "path": "data/people/p_zhao_jiping.json"
   },
   {
     "id": "p_zhao_liang",
@@ -6619,6 +6643,11 @@
     "path": "data/people/p_zulfikar_musakov.json"
   },
   {
+    "id": "p_zulfiqar_ali",
+    "name": "Zulfiqar Ali",
+    "path": "data/people/p_zulfiqar_ali.json"
+  },
+  {
     "id": "p_zulfu_livaneli",
     "name": "Zülfü Livaneli",
     "birth_year": 1946,
@@ -7302,6 +7331,12 @@
     "name": "Zygmunt Hobot",
     "birth_year": 1930,
     "path": "data/people/p_zygmunt_hobot.json"
+  },
+  {
+    "id": "p_zygmunt_konieczny",
+    "name": "Zygmunt Konieczny",
+    "birth_year": 1937,
+    "path": "data/people/p_zygmunt_konieczny.json"
   },
   {
     "id": "p_zygmunt_malanowicz",
