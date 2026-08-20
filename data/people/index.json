@@ -1956,6 +1956,11 @@
     "path": "data/people/p_zbigniew_walerys.json"
   },
   {
+    "id": "p_zbigniew_wolny",
+    "name": "Zbigniew Wolny",
+    "path": "data/people/p_zbigniew_wolny.json"
+  },
+  {
     "id": "p_zbigniew_zamachowski",
     "name": "Zbigniew Zamachowski",
     "birth_year": 1961,
@@ -3241,6 +3246,12 @@
     "name": "Zero Mostel",
     "birth_year": 1915,
     "path": "data/people/p_zero_mostel.json"
+  },
+  {
+    "id": "p_zerocalcare",
+    "name": "Zerocalcare",
+    "birth_year": 1983,
+    "path": "data/people/p_zerocalcare.json"
   },
   {
     "id": "p_zerrin_arbas",
@@ -6811,6 +6822,11 @@
     "path": "data/people/p_zsuzsa_szager.json"
   },
   {
+    "id": "p_zsuzsanna_bak",
+    "name": "Zsuzsanna Bak",
+    "path": "data/people/p_zsuzsanna_bak.json"
+  },
+  {
     "id": "p_zu_feng",
     "name": "Zu Feng",
     "birth_year": 1974,
@@ -6943,6 +6959,18 @@
     "id": "p_zulfiqar_ali",
     "name": "Zulfiqar Ali",
     "path": "data/people/p_zulfiqar_ali.json"
+  },
+  {
+    "id": "p_zulfiqar_jabbar_khan",
+    "name": "Zulfiqar Jabbar Khan",
+    "birth_year": 1980,
+    "path": "data/people/p_zulfiqar_jabbar_khan.json"
+  },
+  {
+    "id": "p_zulfiqer_russell",
+    "name": "Zulfiqer Russell",
+    "birth_year": 1977,
+    "path": "data/people/p_zulfiqer_russell.json"
   },
   {
     "id": "p_zulfu_livaneli",
