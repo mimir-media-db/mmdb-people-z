@@ -3349,6 +3349,11 @@
     "path": "data/people/p_zeynel_dogan.json"
   },
   {
+    "id": "p_zeynep_alasya",
+    "name": "Zeynep Alasya",
+    "path": "data/people/p_zeynep_alasya.json"
+  },
+  {
     "id": "p_zeynep_atakan",
     "name": "Zeynep Atakan",
     "birth_year": 1965,
