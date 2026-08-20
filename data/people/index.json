@@ -654,6 +654,12 @@
     "path": "data/people/p_zack_starr.json"
   },
   {
+    "id": "p_zack_stentz",
+    "name": "Zack Stentz",
+    "birth_year": 1968,
+    "path": "data/people/p_zack_stentz.json"
+  },
+  {
     "id": "p_zack_taylor",
     "name": "Zack Taylor",
     "path": "data/people/p_zack_taylor.json"
@@ -730,6 +736,12 @@
     "id": "p_zafanya_kersten",
     "name": "Zafanya Kersten",
     "path": "data/people/p_zafanya_kersten.json"
+  },
+  {
+    "id": "p_zafar_mairaj",
+    "name": "Zafar Mairaj",
+    "birth_year": 1968,
+    "path": "data/people/p_zafar_mairaj.json"
   },
   {
     "id": "p_zafer_algoz",
@@ -2324,6 +2336,12 @@
     "name": "Zdeněk Maryška",
     "birth_year": 1947,
     "path": "data/people/p_zdenek_maryska.json"
+  },
+  {
+    "id": "p_zdenek_merta",
+    "name": "Zdeněk Merta",
+    "birth_year": 1951,
+    "path": "data/people/p_zdenek_merta.json"
   },
   {
     "id": "p_zdenek_milata",
@@ -4936,6 +4954,12 @@
     "path": "data/people/p_zivko_anocic.json"
   },
   {
+    "id": "p_zivko_zalar",
+    "name": "Živko Zalar",
+    "birth_year": 1948,
+    "path": "data/people/p_zivko_zalar.json"
+  },
+  {
     "id": "p_zivojin_milenkovic",
     "name": "Živojin Milenković",
     "birth_year": 1928,
@@ -5082,6 +5106,12 @@
     "id": "p_zlatko_teskere",
     "name": "Zlatko Teskere",
     "path": "data/people/p_zlatko_teskere.json"
+  },
+  {
+    "id": "p_zlatko_topcic",
+    "name": "Zlatko Topčić",
+    "birth_year": 1955,
+    "path": "data/people/p_zlatko_topcic.json"
   },
   {
     "id": "p_zlsa_leeb",
