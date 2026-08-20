@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_zeuss",
+  "name": "Zeuss",
+  "external_ids": {
+    "wikidata": "Q13422722",
+    "imdb": "nm5713481"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1972
+}
