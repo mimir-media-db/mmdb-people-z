@@ -2895,6 +2895,12 @@
     "path": "data/people/p_zeke_hawkins.json"
   },
   {
+    "id": "p_zeke_khaseli",
+    "name": "Zeke Khaseli",
+    "birth_year": 1977,
+    "path": "data/people/p_zeke_khaseli.json"
+  },
+  {
     "id": "p_zeke_zelker",
     "name": "Zeke Zelker",
     "path": "data/people/p_zeke_zelker.json"
