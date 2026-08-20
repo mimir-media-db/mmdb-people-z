@@ -2806,6 +2806,12 @@
     "path": "data/people/p_zef_dedivanovic.json"
   },
   {
+    "id": "p_zeid_hamdan",
+    "name": "Zeid Hamdan",
+    "birth_year": 1975,
+    "path": "data/people/p_zeid_hamdan.json"
+  },
+  {
     "id": "p_zeina",
     "name": "Zeina",
     "birth_year": 1977,
@@ -3391,6 +3397,12 @@
     "path": "data/people/p_zhai_junjie.json"
   },
   {
+    "id": "p_zhai_yongming",
+    "name": "Zhai Yongming",
+    "birth_year": 1954,
+    "path": "data/people/p_zhai_yongming.json"
+  },
+  {
     "id": "p_zhaidarbek_kunguzhinov",
     "name": "Zhaidarbek Kunguzhinov",
     "birth_year": 1969,
@@ -3741,6 +3753,12 @@
     "name": "Zhang Weiping",
     "birth_year": 1958,
     "path": "data/people/p_zhang_weiping.json"
+  },
+  {
+    "id": "p_zhang_weiwei",
+    "name": "Zhang Weiwei",
+    "birth_year": 1957,
+    "path": "data/people/p_zhang_weiwei.json"
   },
   {
     "id": "p_zhang_xianfeng",
@@ -6429,6 +6447,12 @@
     "name": "Zoya Kaydanovskaya",
     "birth_year": 1976,
     "path": "data/people/p_zoya_kaydanovskaya.json"
+  },
+  {
+    "id": "p_zoya_kudrya",
+    "name": "Zoya Kudrya",
+    "birth_year": 1953,
+    "path": "data/people/p_zoya_kudrya.json"
   },
   {
     "id": "p_zoya_trofimova",
