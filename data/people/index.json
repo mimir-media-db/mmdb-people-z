@@ -3720,6 +3720,12 @@
     "path": "data/people/p_zhang_tianxiang.json"
   },
   {
+    "id": "p_zhang_tianyi",
+    "name": "Zhang Tianyi",
+    "birth_year": 1906,
+    "path": "data/people/p_zhang_tianyi.json"
+  },
+  {
     "id": "p_zhang_tielin",
     "name": "Zhang Tielin",
     "birth_year": 1957,
@@ -4350,6 +4356,12 @@
     "id": "p_zhou_tuo_ru",
     "name": "Zhou Tuo Ru",
     "path": "data/people/p_zhou_tuo_ru.json"
+  },
+  {
+    "id": "p_zhou_weihui",
+    "name": "Zhou Weihui",
+    "birth_year": 1973,
+    "path": "data/people/p_zhou_weihui.json"
   },
   {
     "id": "p_zhou_xianxin",
@@ -5760,6 +5772,11 @@
     "id": "p_zoha_rahman",
     "name": "Zoha Rahman",
     "path": "data/people/p_zoha_rahman.json"
+  },
+  {
+    "id": "p_zohar_laskov",
+    "name": "Zohar Laskov",
+    "path": "data/people/p_zohar_laskov.json"
   },
   {
     "id": "p_zohar_liba",
