@@ -80,6 +80,11 @@
     "path": "data/people/p_zac_posen.json"
   },
   {
+    "id": "p_zac_rae",
+    "name": "Zac Rae",
+    "path": "data/people/p_zac_rae.json"
+  },
+  {
     "id": "p_zac_siewert",
     "name": "Zac Siewert",
     "path": "data/people/p_zac_siewert.json"
@@ -663,6 +668,12 @@
     "id": "p_zack_russell",
     "name": "Zack Russell",
     "path": "data/people/p_zack_russell.json"
+  },
+  {
+    "id": "p_zack_ryan",
+    "name": "Zack Ryan",
+    "birth_year": 1979,
+    "path": "data/people/p_zack_ryan.json"
   },
   {
     "id": "p_zack_shada",
@@ -5816,6 +5827,12 @@
     "path": "data/people/p_zoe_weizenbaum.json"
   },
   {
+    "id": "p_zoe_whittall",
+    "name": "Zoe Whittall",
+    "birth_year": 1976,
+    "path": "data/people/p_zoe_whittall.json"
+  },
+  {
     "id": "p_zoe_winters",
     "name": "Zoë Winters",
     "path": "data/people/p_zoe_winters.json"
@@ -6050,6 +6067,12 @@
     "name": "Zola",
     "birth_year": 1977,
     "path": "data/people/p_zola.json"
+  },
+  {
+    "id": "p_zola_jesus",
+    "name": "Zola Jesus",
+    "birth_year": 1989,
+    "path": "data/people/p_zola_jesus.json"
   },
   {
     "id": "p_zola_maseko",
@@ -6795,6 +6818,12 @@
     "name": "Zsolt Páll",
     "birth_year": 1969,
     "path": "data/people/p_zsolt_pall.json"
+  },
+  {
+    "id": "p_zsolt_petho",
+    "name": "Zsolt Pethő",
+    "birth_year": 1937,
+    "path": "data/people/p_zsolt_petho.json"
   },
   {
     "id": "p_zsolt_pozsgai",
