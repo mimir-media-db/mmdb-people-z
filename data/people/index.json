@@ -1294,6 +1294,11 @@
     "path": "data/people/p_zakir_hussain.json"
   },
   {
+    "id": "p_zakir_khan",
+    "name": "Zakir Khan",
+    "path": "data/people/p_zakir_khan.json"
+  },
+  {
     "id": "p_zakk_wylde",
     "name": "Zakk Wylde",
     "birth_year": 1967,
@@ -2671,6 +2676,12 @@
     "path": "data/people/p_zdenek_vesecky.json"
   },
   {
+    "id": "p_zdenek_vesely",
+    "name": "Zdeněk Veselý",
+    "birth_year": 1998,
+    "path": "data/people/p_zdenek_vesely.json"
+  },
+  {
     "id": "p_zdenek_viktora",
     "name": "Zdeněk Viktora",
     "birth_year": 1976,
@@ -2853,6 +2864,12 @@
     "id": "p_zebi_damen",
     "name": "Zebi Damen",
     "path": "data/people/p_zebi_damen.json"
+  },
+  {
+    "id": "p_zebina_guerra",
+    "name": "Zebina Guerra",
+    "birth_year": 1983,
+    "path": "data/people/p_zebina_guerra.json"
   },
   {
     "id": "p_zebunnisa_bangash",
@@ -4135,6 +4152,11 @@
     "path": "data/people/p_zhanna_bolotova.json"
   },
   {
+    "id": "p_zhanna_dol",
+    "name": "Zhanna Dol",
+    "path": "data/people/p_zhanna_dol.json"
+  },
+  {
     "id": "p_zhanna_epple",
     "name": "Zhanna Epple",
     "birth_year": 1964,
@@ -4637,6 +4659,12 @@
     "name": "Zhou Ziyang",
     "birth_year": 1982,
     "path": "data/people/p_zhou_ziyang.json"
+  },
+  {
+    "id": "p_zhu",
+    "name": "Zhu",
+    "birth_year": 1989,
+    "path": "data/people/p_zhu.json"
   },
   {
     "id": "p_zhu_dan",
