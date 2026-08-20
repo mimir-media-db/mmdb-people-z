@@ -1302,6 +1302,11 @@
     "path": "data/people/p_zalif_sidek.json"
   },
   {
+    "id": "p_zalka_blaya",
+    "name": "Zalka Blaya",
+    "path": "data/people/p_zalka_blaya.json"
+  },
+  {
     "id": "p_zalman_king",
     "name": "Zalman King",
     "birth_year": 1942,
@@ -2690,6 +2695,12 @@
     "path": "data/people/p_zdenko_jelcic.json"
   },
   {
+    "id": "p_zdravko_dusa",
+    "name": "Zdravko Duša",
+    "birth_year": 1950,
+    "path": "data/people/p_zdravko_dusa.json"
+  },
+  {
     "id": "p_zdravko_sotra",
     "name": "Zdravko Šotra",
     "birth_year": 1933,
@@ -3166,6 +3177,12 @@
     "path": "data/people/p_zenit.json"
   },
   {
+    "id": "p_zeno_gabaglio",
+    "name": "Zeno Gabaglio",
+    "birth_year": 1979,
+    "path": "data/people/p_zeno_gabaglio.json"
+  },
+  {
     "id": "p_zeno_graton",
     "name": "Zeno Graton",
     "path": "data/people/p_zeno_graton.json"
@@ -3305,6 +3322,12 @@
     "id": "p_zeus_zamani",
     "name": "Zeus Zamani",
     "path": "data/people/p_zeus_zamani.json"
+  },
+  {
+    "id": "p_zeuss",
+    "name": "Zeuss",
+    "birth_year": 1972,
+    "path": "data/people/p_zeuss.json"
   },
   {
     "id": "p_zev_berman",
@@ -3692,6 +3715,12 @@
     "id": "p_zhang_lin",
     "name": "Zhang Lin",
     "path": "data/people/p_zhang_lin.json"
+  },
+  {
+    "id": "p_zhang_ling",
+    "name": "Zhang Ling",
+    "birth_year": 1956,
+    "path": "data/people/p_zhang_ling.json"
   },
   {
     "id": "p_zhang_lu",
