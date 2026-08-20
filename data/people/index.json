@@ -212,6 +212,11 @@
     "path": "data/people/p_zach_king.json"
   },
   {
+    "id": "p_zach_lemmon",
+    "name": "Zach Lemmon",
+    "path": "data/people/p_zach_lemmon.json"
+  },
+  {
     "id": "p_zach_lipovsky",
     "name": "Zach Lipovsky",
     "birth_year": 1984,
@@ -2737,6 +2742,12 @@
     "name": "Zeb One",
     "birth_year": 1981,
     "path": "data/people/p_zeb_one.json"
+  },
+  {
+    "id": "p_zeb_wells",
+    "name": "Zeb Wells",
+    "birth_year": 1977,
+    "path": "data/people/p_zeb_wells.json"
   },
   {
     "id": "p_zeba_bakhtiar",
@@ -6824,6 +6835,12 @@
     "path": "data/people/p_zubin_varla.json"
   },
   {
+    "id": "p_zubir_said",
+    "name": "Zubir Said",
+    "birth_year": 1907,
+    "path": "data/people/p_zubir_said.json"
+  },
+  {
     "id": "p_zuhal_gencer",
     "name": "Zühal Gencer",
     "birth_year": 1961,
@@ -7228,6 +7245,12 @@
     "name": "Zuzana Liová",
     "birth_year": 1977,
     "path": "data/people/p_zuzana_liova.json"
+  },
+  {
+    "id": "p_zuzana_liskova",
+    "name": "Zuzana Líšková",
+    "birth_year": 1980,
+    "path": "data/people/p_zuzana_liskova.json"
   },
   {
     "id": "p_zuzana_malypetrova",
