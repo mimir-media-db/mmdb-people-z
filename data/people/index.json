@@ -2255,6 +2255,12 @@
     "path": "data/people/p_zdenek_hrachovy.json"
   },
   {
+    "id": "p_zdenek_hruby",
+    "name": "Zdeněk Hrubý",
+    "birth_year": 1939,
+    "path": "data/people/p_zdenek_hruby.json"
+  },
+  {
     "id": "p_zdenek_hruska",
     "name": "Zdeněk Hruška",
     "birth_year": 1971,
@@ -5136,6 +5142,12 @@
     "path": "data/people/p_zita_kabatova.json"
   },
   {
+    "id": "p_zita_marinovova",
+    "name": "Zita Marinovová",
+    "birth_year": 1968,
+    "path": "data/people/p_zita_marinovova.json"
+  },
+  {
     "id": "p_zita_moravkova",
     "name": "Zita Morávková",
     "birth_year": 1971,
@@ -7201,6 +7213,12 @@
     "name": "Zuzana Durdinova",
     "birth_year": 1975,
     "path": "data/people/p_zuzana_durdinova.json"
+  },
+  {
+    "id": "p_zuzana_dzurindova",
+    "name": "Zuzana Dzurindová",
+    "birth_year": 1984,
+    "path": "data/people/p_zuzana_dzurindova.json"
   },
   {
     "id": "p_zuzana_fialova",
