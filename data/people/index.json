@@ -4475,6 +4475,12 @@
     "path": "data/people/p_zhou_yunpeng.json"
   },
   {
+    "id": "p_zhou_zhiyong",
+    "name": "Zhou Zhiyong",
+    "birth_year": 1975,
+    "path": "data/people/p_zhou_zhiyong.json"
+  },
+  {
     "id": "p_zhou_ziyang",
     "name": "Zhou Ziyang",
     "birth_year": 1982,
