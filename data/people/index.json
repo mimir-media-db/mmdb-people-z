@@ -1584,6 +1584,12 @@
     "path": "data/people/p_zara_zerny.json"
   },
   {
+    "id": "p_zara_zettira",
+    "name": "Zara Zettira",
+    "birth_year": 1969,
+    "path": "data/people/p_zara_zettira.json"
+  },
+  {
     "id": "p_zarah_abeln",
     "name": "Zarah Abeln",
     "path": "data/people/p_zarah_abeln.json"
@@ -1800,6 +1806,12 @@
     "name": "Zaza Khalvashi",
     "birth_year": 1957,
     "path": "data/people/p_zaza_khalvashi.json"
+  },
+  {
+    "id": "p_zaza_rusadze",
+    "name": "Zaza Rusadze",
+    "birth_year": 1977,
+    "path": "data/people/p_zaza_rusadze.json"
   },
   {
     "id": "p_zaza_urushadze",
@@ -4237,6 +4249,12 @@
     "path": "data/people/p_zhiping_zhao.json"
   },
   {
+    "id": "p_zhong_acheng",
+    "name": "Zhong Acheng",
+    "birth_year": 1949,
+    "path": "data/people/p_zhong_acheng.json"
+  },
+  {
     "id": "p_zhong_chuxi",
     "name": "Zhong Chuxi",
     "birth_year": 1993,
@@ -6148,6 +6166,12 @@
     "path": "data/people/p_zoran_cvijanovic.json"
   },
   {
+    "id": "p_zoran_drvenkar",
+    "name": "Zoran Drvenkar",
+    "birth_year": 1967,
+    "path": "data/people/p_zoran_drvenkar.json"
+  },
+  {
     "id": "p_zoran_hocevar",
     "name": "Zoran Hočevar",
     "birth_year": 1944,
@@ -6331,6 +6355,12 @@
     "path": "data/people/p_zou_peng.json"
   },
   {
+    "id": "p_zou_ye",
+    "name": "Zou Ye",
+    "birth_year": 1957,
+    "path": "data/people/p_zou_ye.json"
+  },
+  {
     "id": "p_zouhair_el_hairan",
     "name": "Zouhair El Hairan",
     "path": "data/people/p_zouhair_el_hairan.json"
@@ -6443,6 +6473,12 @@
     "path": "data/people/p_zsazsa_utari.json"
   },
   {
+    "id": "p_zsigmond_moricz",
+    "name": "Zsigmond Móricz",
+    "birth_year": 1879,
+    "path": "data/people/p_zsigmond_moricz.json"
+  },
+  {
     "id": "p_zsofi_stribik_jancso",
     "name": "Zsófi Stribik Jancsó",
     "path": "data/people/p_zsofi_stribik_jancso.json"
@@ -6463,6 +6499,12 @@
     "name": "Zsófia Psotta",
     "birth_year": 1997,
     "path": "data/people/p_zsofia_psotta.json"
+  },
+  {
+    "id": "p_zsofia_ruttkay",
+    "name": "Zsófia Ruttkay",
+    "birth_year": 1975,
+    "path": "data/people/p_zsofia_ruttkay.json"
   },
   {
     "id": "p_zsofia_szamosi",
