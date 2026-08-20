@@ -3438,6 +3438,11 @@
     "path": "data/people/p_zhang_benyu.json"
   },
   {
+    "id": "p_zhang_bing",
+    "name": "Zhang Bing",
+    "path": "data/people/p_zhang_bing.json"
+  },
+  {
     "id": "p_zhang_bo",
     "name": "Zhang Bo",
     "birth_year": 1982,
@@ -4041,6 +4046,12 @@
     "path": "data/people/p_zhao_liang.json"
   },
   {
+    "id": "p_zhao_lin",
+    "name": "Zhao Lin",
+    "birth_year": 1966,
+    "path": "data/people/p_zhao_lin.json"
+  },
+  {
     "id": "p_zhao_liying",
     "name": "Zhao Liying",
     "birth_year": 1987,
@@ -4438,6 +4449,12 @@
     "name": "Zhou Yun",
     "birth_year": 1978,
     "path": "data/people/p_zhou_yun.json"
+  },
+  {
+    "id": "p_zhou_yunpeng",
+    "name": "Zhou Yunpeng",
+    "birth_year": 1969,
+    "path": "data/people/p_zhou_yunpeng.json"
   },
   {
     "id": "p_zhou_ziyang",
@@ -6111,6 +6128,12 @@
     "name": "Zoltán Török",
     "birth_year": 1972,
     "path": "data/people/p_zoltan_torok.json"
+  },
+  {
+    "id": "p_zong_fuxian",
+    "name": "Zong Fuxian",
+    "birth_year": 1947,
+    "path": "data/people/p_zong_fuxian.json"
   },
   {
     "id": "p_zong_liqun",
