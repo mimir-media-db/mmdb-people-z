@@ -2361,6 +2361,12 @@
     "path": "data/people/p_zdenek_mahler.json"
   },
   {
+    "id": "p_zdenek_marek",
+    "name": "Zdeněk Marek",
+    "birth_year": 1964,
+    "path": "data/people/p_zdenek_marek.json"
+  },
+  {
     "id": "p_zdenek_maryska",
     "name": "Zdeněk Maryška",
     "birth_year": 1947,
@@ -2764,6 +2770,12 @@
     "id": "p_zebi_damen",
     "name": "Zebi Damen",
     "path": "data/people/p_zebi_damen.json"
+  },
+  {
+    "id": "p_zebunnisa_bangash",
+    "name": "Zebunnisa Bangash",
+    "birth_year": 1980,
+    "path": "data/people/p_zebunnisa_bangash.json"
   },
   {
     "id": "p_zed_nelson",
