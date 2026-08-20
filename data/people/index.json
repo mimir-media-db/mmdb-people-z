@@ -496,6 +496,12 @@
     "path": "data/people/p_zachary_shadrin.json"
   },
   {
+    "id": "p_zachary_sklar",
+    "name": "Zachary Sklar",
+    "birth_year": 1947,
+    "path": "data/people/p_zachary_sklar.json"
+  },
+  {
     "id": "p_zachary_sluser",
     "name": "Zachary Sluser",
     "path": "data/people/p_zachary_sluser.json"
@@ -859,6 +865,12 @@
     "name": "Zahir Omar",
     "birth_year": 1981,
     "path": "data/people/p_zahir_omar.json"
+  },
+  {
+    "id": "p_zahir_raihan",
+    "name": "Zahir Raihan",
+    "birth_year": 1935,
+    "path": "data/people/p_zahir_raihan.json"
   },
   {
     "id": "p_zahira_berrezouga",
@@ -2805,6 +2817,11 @@
     "path": "data/people/p_zeina_makki.json"
   },
   {
+    "id": "p_zeinab_aziz",
+    "name": "Zeinab Aziz",
+    "path": "data/people/p_zeinab_aziz.json"
+  },
+  {
     "id": "p_zeinab_tabrizy",
     "name": "Zeinab Tabrizy",
     "path": "data/people/p_zeinab_tabrizy.json"
@@ -3083,6 +3100,12 @@
     "id": "p_zenilda_de_souza",
     "name": "Zenilda De Souza",
     "path": "data/people/p_zenilda_de_souza.json"
+  },
+  {
+    "id": "p_zenit",
+    "name": "Zénit",
+    "birth_year": 1977,
+    "path": "data/people/p_zenit.json"
   },
   {
     "id": "p_zeno_graton",
@@ -3619,6 +3642,12 @@
     "name": "Zhang Mo",
     "birth_year": 1982,
     "path": "data/people/p_zhang_mo.json"
+  },
+  {
+    "id": "p_zhang_qianyi",
+    "name": "Zhang Qianyi",
+    "birth_year": 1959,
+    "path": "data/people/p_zhang_qianyi.json"
   },
   {
     "id": "p_zhang_qiufang",
@@ -6446,6 +6475,12 @@
     "name": "Zsófia Szilágyi",
     "birth_year": 1978,
     "path": "data/people/p_zsofia_szilagyi.json"
+  },
+  {
+    "id": "p_zsofia_taller",
+    "name": "Zsófia Tallér",
+    "birth_year": 1969,
+    "path": "data/people/p_zsofia_taller.json"
   },
   {
     "id": "p_zsolt_anger",
