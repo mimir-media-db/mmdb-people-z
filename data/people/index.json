@@ -161,6 +161,12 @@
     "path": "data/people/p_zach_cregger.json"
   },
   {
+    "id": "p_zach_dawes",
+    "name": "Zach Dawes",
+    "birth_year": 1985,
+    "path": "data/people/p_zach_dawes.json"
+  },
+  {
     "id": "p_zach_dean",
     "name": "Zach Dean",
     "path": "data/people/p_zach_dean.json"
@@ -1365,6 +1371,11 @@
     "id": "p_zamo_mkhwanazi",
     "name": "Zamo Mkhwanazi",
     "path": "data/people/p_zamo_mkhwanazi.json"
+  },
+  {
+    "id": "p_zamy_juarez_abad",
+    "name": "Zamy Juárez Abad",
+    "path": "data/people/p_zamy_juarez_abad.json"
   },
   {
     "id": "p_zan_marolt",
@@ -3527,6 +3538,12 @@
     "path": "data/people/p_zezita_de_matos.json"
   },
   {
+    "id": "p_zhai_jinyan",
+    "name": "Zhai Jinyan",
+    "birth_year": 1992,
+    "path": "data/people/p_zhai_jinyan.json"
+  },
+  {
     "id": "p_zhai_junjie",
     "name": "Zhai Junjie",
     "birth_year": 1940,
@@ -4425,6 +4442,11 @@
     "name": "Zhila Shahi",
     "birth_year": 1984,
     "path": "data/people/p_zhila_shahi.json"
+  },
+  {
+    "id": "p_zhilong_lei",
+    "name": "Zhilong Lei",
+    "path": "data/people/p_zhilong_lei.json"
   },
   {
     "id": "p_zhiping_zhao",
