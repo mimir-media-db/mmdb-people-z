@@ -2278,6 +2278,12 @@
     "path": "data/people/p_zdenek_janacek.json"
   },
   {
+    "id": "p_zdenek_jecelin",
+    "name": "Zdeněk Jecelín",
+    "birth_year": 1969,
+    "path": "data/people/p_zdenek_jecelin.json"
+  },
+  {
     "id": "p_zdenek_jelen",
     "name": "Zdeněk Jelen",
     "path": "data/people/p_zdenek_jelen.json"
@@ -3472,6 +3478,12 @@
     "name": "Zeynep Tokuş",
     "birth_year": 1976,
     "path": "data/people/p_zeynep_tokus.json"
+  },
+  {
+    "id": "p_zeynep_toraman",
+    "name": "Zeynep Toraman",
+    "birth_year": 1991,
+    "path": "data/people/p_zeynep_toraman.json"
   },
   {
     "id": "p_zeze_gamboa",
@@ -6901,6 +6913,11 @@
     "path": "data/people/p_zsuzsanna_bak.json"
   },
   {
+    "id": "p_zsuzsi_varady",
+    "name": "Zsuzsi Várady",
+    "path": "data/people/p_zsuzsi_varady.json"
+  },
+  {
     "id": "p_zu_feng",
     "name": "Zu Feng",
     "birth_year": 1974,
@@ -7617,6 +7634,11 @@
     "name": "Zuzanna Grabowska",
     "birth_year": 1983,
     "path": "data/people/p_zuzanna_grabowska.json"
+  },
+  {
+    "id": "p_zuzanna_kofta",
+    "name": "Zuzanna Kofta",
+    "path": "data/people/p_zuzanna_kofta.json"
   },
   {
     "id": "p_zuzanna_krol",
