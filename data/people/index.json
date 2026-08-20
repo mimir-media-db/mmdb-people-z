@@ -2594,6 +2594,12 @@
     "path": "data/people/p_zdenek_vodvarka.json"
   },
   {
+    "id": "p_zdenek_vrestal",
+    "name": "Zdeněk Vřešťál",
+    "birth_year": 1956,
+    "path": "data/people/p_zdenek_vrestal.json"
+  },
+  {
     "id": "p_zdenek_zahradka",
     "name": "Zdeněk Zahrádka",
     "path": "data/people/p_zdenek_zahradka.json"
@@ -3453,6 +3459,12 @@
     "name": "Zhang Chao",
     "birth_year": 1988,
     "path": "data/people/p_zhang_chao.json"
+  },
+  {
+    "id": "p_zhang_chong",
+    "name": "Zhang Chong",
+    "birth_year": 1987,
+    "path": "data/people/p_zhang_chong.json"
   },
   {
     "id": "p_zhang_dalei",
