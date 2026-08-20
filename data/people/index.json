@@ -3546,6 +3546,11 @@
     "path": "data/people/p_zhang_kai_li.json"
   },
   {
+    "id": "p_zhang_kehui",
+    "name": "Zhang Kehui",
+    "path": "data/people/p_zhang_kehui.json"
+  },
+  {
     "id": "p_zhang_kui",
     "name": "Zhang Kui",
     "path": "data/people/p_zhang_kui.json"
@@ -3678,6 +3683,11 @@
     "name": "Zhang Tielin",
     "birth_year": 1957,
     "path": "data/people/p_zhang_tielin.json"
+  },
+  {
+    "id": "p_zhang_ting",
+    "name": "Zhang Ting",
+    "path": "data/people/p_zhang_ting.json"
   },
   {
     "id": "p_zhang_weiping",
@@ -4670,6 +4680,12 @@
     "path": "data/people/p_zilvinas_naujokas.json"
   },
   {
+    "id": "p_zim_ngqawana",
+    "name": "Zim Ngqawana",
+    "birth_year": 1959,
+    "path": "data/people/p_zim_ngqawana.json"
+  },
+  {
     "id": "p_zimkhitha_nyoka",
     "name": "Zimkhitha Nyoka",
     "birth_year": 1990,
@@ -4952,6 +4968,12 @@
     "name": "Živko Anočić",
     "birth_year": 1981,
     "path": "data/people/p_zivko_anocic.json"
+  },
+  {
+    "id": "p_zivko_cingo",
+    "name": "Živko Čingo",
+    "birth_year": 1935,
+    "path": "data/people/p_zivko_cingo.json"
   },
   {
     "id": "p_zivko_zalar",
@@ -5288,6 +5310,11 @@
     "name": "Zoé Félix",
     "birth_year": 1976,
     "path": "data/people/p_zoe_felix.json"
+  },
+  {
+    "id": "p_zoe_galeron",
+    "name": "Zoé Galeron",
+    "path": "data/people/p_zoe_galeron.json"
   },
   {
     "id": "p_zoe_gotusso",
@@ -6579,6 +6606,12 @@
     "path": "data/people/p_zsuzsa_nyertes.json"
   },
   {
+    "id": "p_zsuzsa_racz",
+    "name": "Zsuzsa Rácz",
+    "birth_year": 1972,
+    "path": "data/people/p_zsuzsa_racz.json"
+  },
+  {
     "id": "p_zsuzsa_szager",
     "name": "Zsuzsa Száger",
     "birth_year": 1969,
@@ -6757,6 +6790,12 @@
     "name": "Zuo Ling",
     "birth_year": 1962,
     "path": "data/people/p_zuo_ling.json"
+  },
+  {
+    "id": "p_zuoxiao_zuzhou",
+    "name": "Zuoxiao Zuzhou",
+    "birth_year": 1970,
+    "path": "data/people/p_zuoxiao_zuzhou.json"
   },
   {
     "id": "p_zurab_kipshidze",
